@@ -11,10 +11,12 @@
 
 #header { border:1px solid #000;
     margin:0 0 5px 0;
+	text-align: center;
 	}
 #content { border:1px solid #000;
     margin:5px 0 5px 0;
 	}
 #footer { border:1px solid #000;
     margin:5px 0 0 0;
+	text-align: center;
 	}
