@@ -59,12 +59,22 @@ Modules - reusable parts of our design
 Main components 
 
 -------------------------------- */
-header {
-  height: 200px;
-  line-height: 200px;
-  text-align: center;
-  background: #303e49;
-}
+.container { 
+	position:relative; 
+	padding:0 0 0 55px; 
+	font-family: 'Montserrat';
+	}
+#header { 
+	top:30px;
+    margin:0 0 5px 0;
+	text-align: center;
+	height: 100px;
+	}
+#sidebar {
+    position:absolute;
+    top:100px; bottom:0; left:30px;
+    width:50px;
+	}
 header h1 {
   color: white;
   font-size: 18px;
