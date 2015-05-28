@@ -22,7 +22,6 @@ body {
 }
 
 a {
-  color: #acb7c0;
   text-decoration: none;
   font-family: "Montserrat"
 }
@@ -65,7 +64,6 @@ Main components
 	font-family: "Montserrat";
 	}
 #header { 
-	top:30px;
     margin:0 0 5px 0;
 	text-align: center;
 	height: 100px;
