@@ -159,8 +159,6 @@ header h1 {
   position: relative;
   left: 50%;
   top: 50%;
-  margin-left: -12px;
-  margin-top: -12px;
 }
 .cd-timeline-img.cd-picture {
   background: #75ce66;
