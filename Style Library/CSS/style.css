@@ -149,15 +149,13 @@ header h1 {
   position: absolute;
   top: 0;
   left: 0;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+  width: 60px;
+  height: 60px;
 }
 .cd-timeline-img img {
   display: block;
-  width: 24px;
-  height: 24px;
+  width: 60px;
+  height: 60px;
   position: relative;
   left: 50%;
   top: 50%;
