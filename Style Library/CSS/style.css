@@ -157,7 +157,7 @@ header h1 {
   position: relative;
 }
 .cd-timeline-img.cd-picture {
-  background: #75ce66;
+  background: #ffffff;
 }
 .cd-timeline-img.cd-movie {
   background: #c03b44;
@@ -249,7 +249,7 @@ header h1 {
   background: #C0C0C0;
   border-radius: 0.25em;
   padding: 1em;
-  box-shadow: 1px 1px 1px #000000;
+  border: 1px solid black
 }
 .cd-timeline-content:after {
   content: "";
